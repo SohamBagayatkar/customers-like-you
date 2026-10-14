@@ -1,0 +1,7 @@
+Rule,Rows before,Rows removed,Rows remaining
+Missing customer ID,1067371,243007,824364
+Missing description,824364,0,824364
+Cancellation invoices,824364,18744,805620
+Non-positive or invalid quantity,805620,0,805620
+Non-positive or invalid price,805620,71,805549
+Known non-product codes,805549,2604,802945

@@ -1,0 +1,2 @@
+Representation,Recommendation Method,K,Customers Evaluated,Customers with a Hit,Hit Rate@10,Evaluation Time (seconds)
+Binary,Product-to-product cosine similarity (ML3),10,1916,474,0.24739039665970772,12.169414999894798

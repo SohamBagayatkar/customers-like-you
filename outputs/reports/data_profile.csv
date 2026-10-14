@@ -1,0 +1,17 @@
+Sheet,Column,Data Type,Missing Values,Missing Percentage
+Year 2009-2010,Invoice,object,0,0.0
+Year 2009-2010,StockCode,object,0,0.0
+Year 2009-2010,Description,object,2928,0.56
+Year 2009-2010,Quantity,int64,0,0.0
+Year 2009-2010,InvoiceDate,datetime64[us],0,0.0
+Year 2009-2010,Price,float64,0,0.0
+Year 2009-2010,Customer ID,float64,107927,20.54
+Year 2009-2010,Country,str,0,0.0
+Year 2010-2011,Invoice,object,0,0.0
+Year 2010-2011,StockCode,object,0,0.0
+Year 2010-2011,Description,object,1454,0.27
+Year 2010-2011,Quantity,int64,0,0.0
+Year 2010-2011,InvoiceDate,datetime64[us],0,0.0
+Year 2010-2011,Price,float64,0,0.0
+Year 2010-2011,Customer ID,float64,135080,24.93
+Year 2010-2011,Country,str,0,0.0

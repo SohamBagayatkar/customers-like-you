@@ -1,0 +1,2 @@
+Customers,Products,Matrix Shape,Total Cells,Nonzero Entries,Density Percentage,Sparsity Percentage,Dense Memory MB,Sparse Memory MB,Dense to Sparse Ratio
+5484,4534,"(5484, 4534)",24864456,417804,1.6803,98.3197,94.85,3.21,29.56

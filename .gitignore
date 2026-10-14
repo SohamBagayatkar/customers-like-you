@@ -1,0 +1,44 @@
+# Raw Dataset
+data/raw/
+*.xlsx
+*.xls
+
+# Python Environment
+.venv/
+venv/
+env/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Secrets and Environment Variables
+.env
+.env.*
+!.env.example
+
+# Editor and IDE Settings
+.vscode/
+.idea/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Temporary Files and Logs
+*.log
+*.tmp
+*.bak
+
+# Testing and Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Submission Files
+# Keep outputs/ and reports/ tracked.
+# They contain figures, matrices, evaluation results, and reports.

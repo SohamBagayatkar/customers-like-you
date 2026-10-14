@@ -1,0 +1,3 @@
+Method,K,Customers Evaluated,Customers with a Hit,Hit Rate@10,Evaluation Time (seconds)
+SVD similarity recommender,10,1916,293,0.15292275574112735,14.316517299972475
+Best-seller baseline,10,1916,333,0.17379958246346555,0.17904229974374175
